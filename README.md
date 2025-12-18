@@ -35,7 +35,7 @@ The project was developed as part of a graphics programming coursework and showc
    git clone https://github.com/zxsomyaa/graphics-programming-snooker-table.git
 
 ## 🎯 Learning Outcomes
-	• Implemented basic physics simulations using Matter.js
+	•   Implemented basic physics simulations using Matter.js
 	•	Applied collision detection and object motion concepts
 	•	Integrated a physics engine with p5.js rendering
 	•	Managed real-time user interaction within a graphics-based application
